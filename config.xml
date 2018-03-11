@@ -2,11 +2,13 @@
 <widget id="com.wjcouchenour.testapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Test App</name>
     <description>
-        A blank PhoneGap app.
+        A PhoneGap app used to learn tools and skills used in building the Bridges App.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="wcouchen@citadel.edu" href="https://github.com/WJCouchenour">
+        W. Jacob Couchenour
     </author>
     <content src="index.html" />
     <access origin="*" />
+    
+    <preference name = "orientation" value = "portrait" />
 </widget>
